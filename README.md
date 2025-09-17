@@ -44,7 +44,7 @@ Pour l'installation suivre la documentation proposée par la communauté Flutter
 
 ### **4. Installer PostgreSQL**
 
-  * **Télécharger le programme d'installation :** Allez sur le site officiel de **PostgreSQL** et téléchargez le programme d'installation pour Windows.
+  * **Télécharger le programme d'installation :** https://sbp.enterprisedb.com/getfile.jsp?fileid=1259686
   * **Exécuter le programme d'installation :** Exécutez le fichier d'installation. Laissez les options par défaut, mais assurez-vous que les composants suivants sont sélectionnés :
       * **PostgreSQL Server**
       * **pgAdmin 4** (un outil graphique très utile)
